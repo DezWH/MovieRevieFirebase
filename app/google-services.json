@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "6899333436",
+    "firebase_url": "https://movies-8814a.firebaseio.com",
+    "project_id": "movies-8814a",
+    "storage_bucket": "movies-8814a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6899333436:android:6f509bcf89d7392f",
+        "android_client_info": {
+          "package_name": "com.dez.moviereviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6899333436-i7mnfrabmi8r6k4auctagu00m9r5tp71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWujENrX9y-csICLqmcSYcasHR7twepCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
